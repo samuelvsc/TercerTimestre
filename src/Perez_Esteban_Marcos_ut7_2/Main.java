@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("modificacionSamuel");
+
         boolean primerBucle = true,segundoBucle = true,segundoBuclePrimeraVez=true; //Variables para los bucles
         Scanner sc = new Scanner(System.in); //Scanner
         Maleta maleta = null; //Crear la maleta
